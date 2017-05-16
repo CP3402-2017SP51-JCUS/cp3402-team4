@@ -5,6 +5,7 @@ body, html {
 
 .container {
     padding: 20px;
+    text-align: center;
 }
 
 .header .container {
@@ -13,6 +14,10 @@ body, html {
 
 .footer .container {
     padding: 10px 30px;
+}
+
+.contact-us-content .container {
+    padding: 10px 50px;
 }
 
 .header {
@@ -78,10 +83,9 @@ body, html {
 
 .section div {
     margin: 0 auto;
-    text-align: center;
 }
 
-.displayTitle {
+.display-title {
     font-size: 30px;
     padding: 30px;
 }
@@ -97,7 +101,7 @@ body, html {
     background-color: aquamarine;
 }
 
-.productName {
+.product-name {
     font-size: medium;
 }
 
@@ -112,22 +116,33 @@ body, html {
     opacity: 0.8;
     text-align: center;
     bottom: 0;
-    position: relative;
+    background-color: black;
 }
 
-.contactUsContent {
-    background-color: white;
-    min-height: 100%;
-    padding: 30px;
+.about-us-container .footer, .contact-us-container .footer {
+    position: absolute;
+    width: 100%;
 }
 
-.contactUsContent .details {
+.about-us-container, .contact-us-container {
+    height: 100%;
+}
+
+.about-us-content .details {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1.5;
+    padding: 50px 80px;
+}
+
+.contact-us-content .details {
     display: inline-block;
     width: 49.5%;
     letter-spacing: 1px;
     word-spacing: 2px;
     line-height: 1.5;
-    border: solid 1px black;
+    text-align: left;
+    padding: 50px 0;
 }
 
 .map {
@@ -135,28 +150,5 @@ body, html {
     width: 49.5%;
     top: 0;
     vertical-align: top;
-    border: solid 1px black;
-}
-
-.displayTitle {
-    font-size: 30px;
-    padding: 30px;
-}
-
-.aboutUsContent {
-    background-color: white;
-    height: inherit;
-    max-height: 100% ;
-}
-
-.aboutUsContent .details {
-    padding: 0 30px 0 30px;
-    letter-spacing: 1px;
-    word-spacing: 2px;
-    line-height: 1.5;
-}
-
-.displayTitle {
-    font-size: 30px;
-    padding: 30px;
+    background-color: #ff8ea6;
 }
