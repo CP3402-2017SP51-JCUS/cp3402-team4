@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e033cf-9d52-4dfb-96fa-d10393bda1b9" name="Default" comment="-">
+    <list default="true" id="85e033cf-9d52-4dfb-96fa-d10393bda1b9" name="Default" comment="- Test Product image upload">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/assets/images/teacher/Teachers Day Medalions.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -255,7 +256,7 @@
       <workItem from="1495016897999" duration="1200000" />
       <workItem from="1495019606886" duration="66000" />
       <workItem from="1495019873666" duration="4476000" />
-      <workItem from="1495026777255" duration="1375000" />
+      <workItem from="1495026777255" duration="2937000" />
     </task>
     <task id="LOCAL-00001" summary="- Test Product image upload">
       <created>1495027526679</created>
@@ -264,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495027526679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- Test Product image upload">
+      <created>1495028271985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1495028271985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20437000" />
+    <option name="totallyTimeSpent" value="21999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
