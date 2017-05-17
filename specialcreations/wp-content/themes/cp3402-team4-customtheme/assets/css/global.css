@@ -1,0 +1,166 @@
+body, html, .site, .site-content {
+    height: 100%;
+    margin: 0;
+    position: relative;
+}
+
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+.header .container {
+    padding: 10px;
+    min-width: 600px;
+}
+.navigation-container {
+    height: 20%;
+    background-color: #e1f9ff;
+}
+
+.slider {
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.slider .container {
+    background-image: url("assets\\images\\404.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80%;
+    padding: 0;
+}
+
+.footer .container {
+    padding: 10px 30px;
+}
+
+.contact-us-content .container {
+    padding: 10px 50px;
+}
+
+.header {
+    z-index: 3;
+    width: 100%;
+    background-color: #e1f9ff;
+    font-family: "Arial";
+    text-align: center;
+    position: fixed;
+}
+
+.title {
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.title a {
+    color: #ff5975;
+    text-decoration: none;
+}
+
+.subtitle {
+    color: #ff8ea6;
+    font-size: medium;
+    padding: 5px;
+}
+
+.navigation {
+    font-family: "Arial";
+    font-size: 11px;
+    letter-spacing: 3px;
+    color: black;
+}
+
+.navigation ul {
+    list-style: none;
+    margin: 0;
+}
+
+.navigation li {
+    display: inline-block;
+    padding: 10px 10px 0 10px;
+    text-transform: uppercase;
+}
+
+.content {
+    z-index: 2;
+}
+
+.section {
+    padding: 20px;
+    min-width: 800px;
+}
+
+.section div {
+    margin: 0 auto;
+}
+
+.display-title {
+    font-size: 30px;
+    padding: 30px;
+}
+
+.item {
+    display: inline-block;
+    width: 33%;
+}
+
+.picture {
+    width: 250px;
+    height: 250px;
+    background-color: aquamarine;
+}
+
+.product-name {
+    font-size: medium;
+}
+
+.video iframe {
+    width: 640px;
+    height: 360px;
+}
+
+.footer {
+    z-index: 2;
+    color: azure;
+    opacity: 0.8;
+    text-align: center;
+    bottom: 0;
+    background-color: black;
+}
+
+.about-us-container .footer, .contact-us-container .footer {
+    position: absolute;
+    width: 100%;
+}
+
+.about-us-container, .contact-us-container, .contact-us-content, .about-us-content {
+    height: 100%;
+}
+
+.about-us-content .details {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1.5;
+    padding: 50px 80px;
+}
+
+.contact-us-content .details {
+    display: inline-block;
+    width: 49.5%;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1.5;
+    text-align: left;
+    padding: 50px 0;
+}
+
+.map {
+    display: inline-block;
+    width: 49.5%;
+    top: 0;
+    vertical-align: top;
+    background-color: #ff8ea6;
+}
