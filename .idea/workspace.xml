@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e033cf-9d52-4dfb-96fa-d10393bda1b9" name="Default" comment="">
+    <list default="true" id="85e033cf-9d52-4dfb-96fa-d10393bda1b9" name="Default" comment="-">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -255,12 +255,20 @@
       <workItem from="1495016897999" duration="1200000" />
       <workItem from="1495019606886" duration="66000" />
       <workItem from="1495019873666" duration="4476000" />
-      <workItem from="1495026777255" duration="602000" />
+      <workItem from="1495026777255" duration="1375000" />
     </task>
+    <task id="LOCAL-00001" summary="- Test Product image upload">
+      <created>1495027526679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495027526679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19664000" />
+    <option name="totallyTimeSpent" value="20437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -319,7 +327,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Test Teachers Dat Card with bees images" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Test Teachers Dat Card with bees images" />
+    <MESSAGE value="- Test Product image upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Test Product image upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
