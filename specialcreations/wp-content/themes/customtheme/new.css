@@ -10,6 +10,26 @@ body, html {
 
 .header .container {
     padding: 10px;
+    min-width: 600px;
+}
+.navigation-container {
+    height: 20%;
+    background-color: #e1f9ff;
+}
+
+.slider {
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.slider .container {
+    background-image: url("assets\\images\\404.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80%;
+    padding: 0;
 }
 
 .footer .container {
@@ -63,22 +83,13 @@ body, html {
     text-transform: uppercase;
 }
 
-.slider {
-    z-index: 1;
-    width: 100%;
-    height: 100%;
-    background-image: url("assets\\images\\404.jpg");
-    background-position: center;
-    background-size: cover;
-    position: relative;
-}
-
 .content {
     z-index: 2;
 }
 
 .section {
     padding: 20px;
+    min-width: 800px;
 }
 
 .section div {
@@ -124,7 +135,7 @@ body, html {
     width: 100%;
 }
 
-.about-us-container, .contact-us-container {
+.about-us-container, .contact-us-container, .contact-us-content, .about-us-content {
     height: 100%;
 }
 
