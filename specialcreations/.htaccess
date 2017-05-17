@@ -7,6 +7,7 @@ RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /cp3402-team4/specialcreations/index.php [L]
+php_value max_execution_time 600
 </IfModule>
 
 # END WordPress
