@@ -130,12 +130,7 @@ body, html {
     background-color: black;
 }
 
-.about-us-container .footer, .contact-us-container .footer {
-    position: absolute;
-    width: 100%;
-}
-
-.about-us-container, .contact-us-container, .contact-us-content, .about-us-content {
+.contact-us-content, .about-us-content {
     height: 100%;
 }
 
