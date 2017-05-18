@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e033cf-9d52-4dfb-96fa-d10393bda1b9" name="Default" comment="- Test Product image upload">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/assets/images/teacher/Teachers Day Medalions.jpg" afterPath="" />
+    <list default="true" id="85e033cf-9d52-4dfb-96fa-d10393bda1b9" name="Default" comment="- Created products Wedding Category.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/assets/images/wedding/Engraved Wedding Date Vase.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/assets/images/wedding/Hand Painted Customizable Wedding Mugs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/assets/images/wedding/Wedding Day Gift Box.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-A-Bucket-of-Flower-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-A-Bucket-of-Flower-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-A-Bucket-of-Flower-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-A-Bucket-of-Flower.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Couple-Rings-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Couple-Rings-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Couple-Rings-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Couple-Rings.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Couple-Under-a-Sakura-Tree-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Couple-Under-a-Sakura-Tree-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Couple-Under-a-Sakura-Tree-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Couple-Under-a-Sakura-Tree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lovely-Wedding-Card1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lovely-Wedding-Card1-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lovely-Wedding-Card1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lovely-Wedding-Card1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lovely-Wedding-Card2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lovely-Wedding-Card2-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lovely-Wedding-Card2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lovely-Wedding-Card2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lover-in-a-Bridge-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lover-in-a-Bridge-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lover-in-a-Bridge-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Lover-in-a-Bridge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card-with-Church-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card-with-Church-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card-with-Church-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card-with-Church.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card1-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card1-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card1-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card2-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card2-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card2-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/3D-Pop-Up-Wedding-Card2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Engraved-Wedding-Date-Vase-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Engraved-Wedding-Date-Vase-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Engraved-Wedding-Date-Vase-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Engraved-Wedding-Date-Vase-600x600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Engraved-Wedding-Date-Vase.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Hand-Painted-Customizable-Wedding-Mugs-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Hand-Painted-Customizable-Wedding-Mugs-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Hand-Painted-Customizable-Wedding-Mugs-300x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Hand-Painted-Customizable-Wedding-Mugs-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Hand-Painted-Customizable-Wedding-Mugs-600x466.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Hand-Painted-Customizable-Wedding-Mugs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Wedding-Day-Gift-Box-150x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Wedding-Day-Gift-Box-180x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Wedding-Day-Gift-Box-300x281.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Wedding-Day-Gift-Box-300x300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/Wedding-Day-Gift-Box.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -181,6 +235,121 @@
       <recent name="C:\Program Files (x86)\Ampps\www\cp3402-team4\specialcreations\wp-content\themes\cp3402-team4-customtheme\assets" />
     </key>
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/christmas-jar-150x150.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/christmas-jar-180x180.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/christmas-jar-214x300.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/christmas-jar-300x300.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/christmas-jar-464x600.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/uploads/2017/05/christmas-jar.jpg</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -256,7 +425,7 @@
       <workItem from="1495016897999" duration="1200000" />
       <workItem from="1495019606886" duration="66000" />
       <workItem from="1495019873666" duration="4476000" />
-      <workItem from="1495026777255" duration="2937000" />
+      <workItem from="1495026777255" duration="4741000" />
     </task>
     <task id="LOCAL-00001" summary="- Test Product image upload">
       <created>1495027526679</created>
@@ -272,20 +441,27 @@
       <option name="project" value="LOCAL" />
       <updated>1495028271985</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- Created products for Parent, Teacher and Valentines Category.">
+      <created>1495037133413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1495037133413</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21999000" />
+    <option name="totallyTimeSpent" value="23803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -336,7 +512,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Test Teachers Dat Card with bees images" />
     <MESSAGE value="- Test Product image upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Test Product image upload" />
+    <MESSAGE value="- Created products for Parent, Teacher and Valentines Category." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Created products for Parent, Teacher and Valentines Category." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
