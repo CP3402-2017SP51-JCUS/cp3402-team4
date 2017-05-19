@@ -122,6 +122,14 @@ function cp3402_team4_customtheme_scripts() {
 add_action( 'wp_enqueue_scripts', 'cp3402_team4_customtheme_scripts' );
 
 /**
+ * Customizable sections
+ */
+
+function theme_customization_register($wp_customize) {
+
+}
+
+/**
  * Implement the Custom Header feature.
  */
 require get_template_directory() . '/inc/custom-header.php';
@@ -147,3 +155,49 @@ require get_template_directory() . '/inc/customizer.php';
 require get_template_directory() . '/inc/jetpack.php';
 
 add_theme_support( 'woocommerce' );
+
+/* This snippet removes the action that inserts thumbnails to products in teh loop
+ * and re-adds the function customized with our wrapper in it.
+ * It applies to all archives with products.
+ *
+ * @original plugin: WooCommerce
+ * @author of snippet: Brian Krogsard
+ */
+remove_action( 'woocommerce_before_shop_loop_item_title', 'woocommerce_template_loop_product_thumbnail', 10);
+add_action( 'woocommerce_before_shop_loop_item_title', 'woocommerce_template_loop_product_thumbnail', 10);
+/**
+ * WooCommerce Loop Product Thumbs
+ **/
+if ( ! function_exists( 'woocommerce_template_loop_product_thumbnail' ) ) {
+    function woocommerce_template_loop_product_thumbnail() {
+        echo woocommerce_get_product_thumbnail();
+    }
+}
+/**
+ * WooCommerce Product Thumbnail
+ **/
+if ( ! function_exists( 'woocommerce_get_product_thumbnail' ) ) {
+
+    function woocommerce_get_product_thumbnail( $size = 'shop_catalog', $placeholder_width = 0, $placeholder_height = 0  ) {
+        global $post, $woocommerce;
+        if ( ! $placeholder_width )
+            $placeholder_width = wc_get_image_size( 'shop_catalog_image_width' );
+        if ( ! $placeholder_height )
+            $placeholder_height = wc_get_image_size( 'shop_catalog_image_height' );
+
+        $output = '<div class="imagewrapper">';
+        if ( has_post_thumbnail() ) {
+
+            $output .= get_the_post_thumbnail( $post->ID, $size );
+
+        } else {
+
+            $output .= '<img src="'. wc_placeholder_img_src() .'" alt="Placeholder" width="' . $placeholder_width . '" height="' . $placeholder_height . '" />';
+
+        }
+
+        $output .= '</div>';
+
+        return $output;
+    }
+}

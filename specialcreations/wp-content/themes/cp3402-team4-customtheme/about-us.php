@@ -8,7 +8,7 @@ get_header(); ?>
     <div class="container">
         <h1 class="entry-title">About Us</h1>
         <div class="details">
-            <?php get_the_content() ?>
+            <?php get_theme_mod( "aboutus_text" ) ?>
         </div>
     </div>
 

@@ -37,8 +37,12 @@
 	<div id="content" class="site-content">
         <div class="title">
             <div class="container">
-                <div class="maintitle"><a href="new.html">Special Creations</a></div>
-                <div class="subtitle">Let's make your own gift</div>
+                <div class="maintitle">
+                    <?php echo '<a href="new.html">' . get_theme_mod( "main_title_text" ) . '</a>' ?>
+                </div>
+                <div class="subtitle">
+                    <?php echo get_theme_mod( "sub_title_text" ) ?>
+                </div>
             </div>
         </div>
         <div class="title-container"></div>

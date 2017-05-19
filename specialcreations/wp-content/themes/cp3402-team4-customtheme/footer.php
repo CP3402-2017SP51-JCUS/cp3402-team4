@@ -12,7 +12,9 @@
 ?>
 
             <div class="footer">
-                <div class="container">wordpress</div>
+                <div class="container">
+                    <?php echo get_theme_mod( "footer_text" ) ?>
+                </div>
             </div>
         </div>
 

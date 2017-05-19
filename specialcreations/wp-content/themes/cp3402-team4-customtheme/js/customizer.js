@@ -39,4 +39,13 @@
 			}
 		} );
 	} );
+
+	/*********************************/
+	/*******  Products section *******/
+	/********************************/
+	wp.customize( 'title_text', function( value ) {
+		value.bind( function( to ) {
+			$( '.maintitle' ).text( to );
+		} );
+	} );
 } )( jQuery );
