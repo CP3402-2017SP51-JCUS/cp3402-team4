@@ -1,7 +1,6 @@
 body, html, .site, .site-content {
     height: 100%;
     margin: 0;
-    font-family: 'Comfortaa', serif;
 }
 
 .container {
@@ -10,24 +9,25 @@ body, html, .site, .site-content {
 }
 
 .navigation {
-    font-size: 14px;
+    font-family: "Arial";
+    font-size: 11px;
     letter-spacing: 3px;
+    font-weight: bold;
     color: black;
     background-color: #e1f9ff;
     position: fixed;
     height: auto;
-    z-index: 3;
+    z-index: 4;
     width: 100%;
 }
 
 .navigation .container {
-    padding: 0 10px;
-    min-width: 700px;
+    padding: 0 0 0 10px;
 }
 
 .navigation .container .nav-bar {
     text-align: left;
-    width: 50%;
+    width: 69%;
     display: inline-block;
     box-sizing: border-box;
 }
@@ -45,16 +45,19 @@ body, html, .site, .site-content {
 }
 
 .navigation .container .search {
-    text-align: right;
-    width: 49%;
+    float: right;
+    width: 30%;
     display: inline-block;
-    padding: 15px 10px 15px 0;
+    padding: 15px 0 15px 10px;
     box-sizing: border-box;
 }
 
 .title {
+    position: fixed;
     width: 100%;
+    z-index: -1;
     background-color: #e1f9ff;
+    font-family: "Arial";
     height: 30%;
     padding-top: 40px;
     box-sizing: border-box;
@@ -77,30 +80,31 @@ body, html, .site, .site-content {
 }
 
 .slider {
+    top:30%;
+    position: fixed;
     width: 100%;
+    z-index: -2;
     height: 70%;
     box-sizing: border-box;
+    background-color: #00aadc;
 }
 
 .slider .container {
-    background-image: url("404.jpg");
+    background-image: url("assets\\images\\404.jpg");
     background-position: center;
     background-size: cover;
     height: 100%;
     padding: 0;
 }
 
-.title-slider-container {
-    position: fixed;
-    height: 100%;
-    width: 100%;
-    z-index: 1;
+.front-page-content {
+    top: 100%;
+    z-index: 3;
+    position: relative;
+    background-color: white;
 }
 
-.content {
-    top: 100%;
-    z-index: 2;
-    position: relative;
+#container #content {
     background-color: white;
 }
 
@@ -140,13 +144,13 @@ body, html, .site, .site-content {
 }
 
 .footer {
-    z-index: 2;
+    z-index: 3;
     color: azure;
     opacity: 0.8;
     text-align: center;
     bottom: 0;
     background-color: black;
-    position: absolute;
+    position: relative;
     width: 100%;
 }
 
@@ -154,8 +158,20 @@ body, html, .site, .site-content {
     padding: 10px 30px;
 }
 
-.contact-us-content, .about-us-content {
-    height: 100%;
+.contact-us-content, .about-us-content, .content-area{
+    position: relative;
+    z-index: 3;
+    background-color: white;
+}
+.title-container {
+    position: relative;
+    z-index: 3;
+    background-color: transparent;
+    height: 30%;
+}
+
+.front-page-content .footer {
+    position: absolute;
 }
 
 .about-us-content .details {

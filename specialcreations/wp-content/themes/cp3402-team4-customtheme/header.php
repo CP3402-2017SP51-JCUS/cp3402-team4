@@ -35,3 +35,10 @@
         </div>
     </header><!-- header end -->
 	<div id="content" class="site-content">
+        <div class="title">
+            <div class="container">
+                <div class="maintitle"><a href="new.html">Special Creations</a></div>
+                <div class="subtitle">Let's make your own gift</div>
+            </div>
+        </div>
+        <div class="title-container"></div>

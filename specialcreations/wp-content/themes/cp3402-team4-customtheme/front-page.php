@@ -6,19 +6,10 @@
  */
 
 get_header(); ?>
-
-<div class="title-slider-container">
-    <div class="title">
-        <div class="container">
-            <div class="maintitle"><a href="new.html">Special Creations</a></div>
-            <div class="subtitle">Let's make your own gift</div>
-        </div>
-    </div>
-    <div class="slider">
-        <div class="container"></div>
-    </div>
+<div class="slider">
+    <div class="container"></div>
 </div>
-<div class="content">
+<div class="front-page-content">
     <div class="container">
         <div class="section">
 
@@ -62,8 +53,6 @@ get_header(); ?>
             </div>
         </div>
     </div>
-
-
 
 <?php get_footer(); ?>
 

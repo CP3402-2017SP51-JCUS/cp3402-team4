@@ -770,9 +770,37 @@ a:active {
 	margin: 1.5em 0 0;
 }
 
+.entry-footer {
+	display: none;
+}
+
 .page-links {
 	clear: both;
 	margin: 0 0 1.5em;
+}
+
+.return-to-shop {
+	text-align: center;
+}
+
+.wc-backward {
+	background-color: #e1f9ff !important;
+	border: solid 1px #E0E0E0 !important;
+}
+
+.cart-empty {
+	text-align: center;
+	font-size: 20px;
+	padding: 30px;
+}
+
+.entry-title {
+	padding-left: 50px;
+}
+
+#content #container #content {
+	padding: 20px;
+	box-sizing: border-box;
 }
 
 /*--------------------------------------------------------------

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e033cf-9d52-4dfb-96fa-d10393bda1b9" name="Default" comment="Change structure of website and edited css">
+    <list default="true" id="85e033cf-9d52-4dfb-96fa-d10393bda1b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/css/global.css" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/css/global.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/contact-us.php" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/contact-us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/footer.php" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/front-page.php" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/front-page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/header.php" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/page.php" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/style.css" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/AboutUs.html" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/AboutUs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.css" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.html" afterPath="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.html" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,18 +33,8 @@
       <file leaf-file-name="new.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="42" column="57" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about-us.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="25">
+              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -52,38 +43,70 @@
       <file leaf-file-name="new.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4132">
-              <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+            <state relative-caret-position="263">
+              <caret line="105" column="8" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactUs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/ContactUs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="47" column="10" selection-start-line="27" selection-start-column="0" selection-end-line="47" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="global.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+            <state relative-caret-position="281">
+              <caret line="106" column="11" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact-us.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/contact-us.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about-us.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/page.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/front-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#737#765#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="674">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -111,16 +134,19 @@
         <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/classes.css" />
         <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/product.css" />
         <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/product.html" />
-        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.css" />
         <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/ContactUs.html" />
-        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/header.php" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/AboutUs.html" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/index.php" />
         <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/style.css" />
         <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/footer.php" />
-        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/front-page.php" />
-        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/css/global.css" />
-        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/AboutUs.html" />
-        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.css" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.html" />
         <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/contact-us.php" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/front-page.php" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/page.php" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/header.php" />
+        <option value="$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/css/global.css" />
       </list>
     </option>
   </component>
@@ -261,6 +287,70 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cp3402-team4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cp3402-team4" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="specialcreations" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cp3402-team4-customtheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cp3402-team4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cp3402-team4" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="specialcreations" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cp3402-team4-customtheme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -291,10 +381,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/front-page.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/header.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/inc/customizer.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -302,7 +389,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/images/404.jpg</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -310,7 +396,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/css/assets/images/404.jpg</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -468,7 +553,7 @@
       <workItem from="1495019606886" duration="66000" />
       <workItem from="1495019873666" duration="4476000" />
       <workItem from="1495026777255" duration="4741000" />
-      <workItem from="1495171529489" duration="7762000" />
+      <workItem from="1495171529489" duration="25195000" />
     </task>
     <task id="LOCAL-00001" summary="- Test Product image upload">
       <created>1495027526679</created>
@@ -505,17 +590,24 @@
       <option name="project" value="LOCAL" />
       <updated>1495174015369</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Transfer new.html into each part of homepage which are header, footer, front-page. Transfer about-us.html and contact-us.html to php version.">
+      <created>1495181722081</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1495181722081</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31565000" />
+    <option name="totallyTimeSpent" value="48998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15208334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -573,7 +665,8 @@
     <MESSAGE value="- Created products for Parent, Teacher and Valentines Category." />
     <MESSAGE value="Change structure of website and edited css" />
     <MESSAGE value="move the structure and css from new.html and new.css to header.php and global.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="move the structure and css from new.html and new.css to header.php and global.css" />
+    <MESSAGE value="Transfer new.html into each part of homepage which are header, footer, front-page. Transfer about-us.html and contact-us.html to php version." />
+    <option name="LAST_COMMIT_MESSAGE" value="Transfer new.html into each part of homepage which are header, footer, front-page. Transfer about-us.html and contact-us.html to php version." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -803,10 +896,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/header.php">
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/ContactUs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="602">
+          <caret line="47" column="10" selection-start-line="27" selection-start-column="0" selection-end-line="47" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/woocommerce/content-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/template-parts/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/template-parts/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1495037778861" expanded="true" signature="843:849" ph="→" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/woocommerce/cart/cart-empty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/woocommerce/cart/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <marker date="1495037778924" expanded="true" signature="2561:2568" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="800" column="29" selection-start-line="800" selection-start-column="29" selection-end-line="800" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/AboutUs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -819,76 +980,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/front-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <element signature="e#1012#1040#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="269" column="4" selection-start-line="269" selection-start-column="4" selection-end-line="269" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="42" column="57" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/AboutUs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="40" column="10" selection-start-line="27" selection-start-column="0" selection-end-line="40" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="25">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/new.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4132">
-          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+        <state relative-caret-position="263">
+          <caret line="105" column="8" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/customtheme/ContactUs.html">
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="47" column="10" selection-start-line="27" selection-start-column="0" selection-end-line="47" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="100">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#737#765#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/contact-us.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/about-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/page.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialcreations/wp-content/themes/cp3402-team4-customtheme/assets/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="106" column="11" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
           <folding />
         </state>
       </provider>
