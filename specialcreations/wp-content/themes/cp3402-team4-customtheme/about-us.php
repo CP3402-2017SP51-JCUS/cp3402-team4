@@ -6,7 +6,7 @@ get_header(); ?>
 <div class="about-us-content">
     <div class="navigation-container"></div>
     <div class="container">
-        <div class="display-title">About Us</div>
+        <h1 class="entry-title">About Us</h1>
         <div class="details">
             <?php get_the_content() ?>
         </div>

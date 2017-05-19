@@ -181,8 +181,9 @@ body, html, .site, .site-content {
     padding: 50px 80px;
 }
 
-.contact-us-content .container {
-    padding: 10px 50px;
+.contact-us-content .container, .about-us-content .container {
+    padding: 0 50px 10px 0;
+    text-align: left;
 }
 
 .contact-us-content .details {
@@ -201,4 +202,9 @@ body, html, .site, .site-content {
     top: 0;
     vertical-align: top;
     background-color: #ff8ea6;
+}
+
+.woocommerce ul.products li.product a img {
+    height: 300px;
+    width: 300px;
 }

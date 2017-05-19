@@ -770,6 +770,15 @@ a:active {
 	margin: 1.5em 0 0;
 }
 
+.entry-content {
+	padding: 0 20px;
+}
+
+
+.coupon, .cart-subtotal, .woocommerce-info, .woocommerce-form__label-for-checkbox, .checkbox {
+	display: none;
+}
+
 .entry-footer {
 	display: none;
 }
@@ -781,6 +790,7 @@ a:active {
 
 .return-to-shop {
 	text-align: center;
+	margin-bottom: 100px;
 }
 
 .wc-backward {
