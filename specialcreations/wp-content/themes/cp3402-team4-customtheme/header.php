@@ -18,24 +18,19 @@
 </head>
 
 <body <?php body_class(); ?>>
-
 <div id="page" class="site">
-    <header class="header">
+    <header class="navigation">
         <div class="container">
-            <div class="title"><a href="new.html">Special Creations</a></div>
-            <div class="subtitle">Let's make your own gift</div>
-
             <?php wp_nav_menu( array(
-            'container' => 'div',
-            'container_class' => 'navigation',
-                ) ); ?>
-
-            <?php
-            $search_bar = get_template_directory() . '/woocommerce/product-searchform.php';
-            require_once ( $search_bar );
-            ?>
-
+                'container' => 'div',
+                'container_class' => 'nav-bar',
+            ) ); ?>
+            <div class="search">
+                <?php
+                $search_bar = get_template_directory() . '/woocommerce/product-searchform.php';
+                require_once ( $search_bar );
+                ?>
+            </div>
         </div>
-	</header><!-- header end -->
-
+    </header><!-- header end -->
 	<div id="content" class="site-content">
