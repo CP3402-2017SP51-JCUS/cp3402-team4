@@ -11,11 +11,12 @@
 
 ?>
 
-	</div><!-- #content -->
+            <div class="footer">
+                <div class="container">wordpress</div>
+            </div>
+        </div>
 
-    <div class="footer">
-        <div class="container">wordpress</div>
-    </div>
+	</div><!-- #content -->
 
 </div><!-- #page -->
 

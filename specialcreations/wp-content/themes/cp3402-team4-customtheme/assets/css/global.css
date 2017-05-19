@@ -1,6 +1,7 @@
-body, html {
+body, html, .site, .site-content {
     height: 100%;
     margin: 0;
+    font-family: 'Comfortaa', serif;
 }
 
 .container {
@@ -9,10 +10,8 @@ body, html {
 }
 
 .navigation {
-    font-family: "Arial";
-    font-size: 11px;
+    font-size: 14px;
     letter-spacing: 3px;
-    font-weight: bold;
     color: black;
     background-color: #e1f9ff;
     position: fixed;
@@ -22,12 +21,13 @@ body, html {
 }
 
 .navigation .container {
-    padding: 0 0 0 10px;
+    padding: 0 10px;
+    min-width: 700px;
 }
 
 .navigation .container .nav-bar {
     text-align: left;
-    width: 69%;
+    width: 50%;
     display: inline-block;
     box-sizing: border-box;
 }
@@ -45,17 +45,16 @@ body, html {
 }
 
 .navigation .container .search {
-    float: right;
-    width: 30%;
+    text-align: right;
+    width: 49%;
     display: inline-block;
-    padding: 15px 0 15px 10px;
+    padding: 15px 10px 15px 0;
     box-sizing: border-box;
 }
 
 .title {
     width: 100%;
     background-color: #e1f9ff;
-    font-family: "Arial";
     height: 30%;
     padding-top: 40px;
     box-sizing: border-box;
@@ -84,7 +83,7 @@ body, html {
 }
 
 .slider .container {
-    background-image: url("assets\\images\\404.jpg");
+    background-image: url("404.jpg");
     background-position: center;
     background-size: cover;
     height: 100%;

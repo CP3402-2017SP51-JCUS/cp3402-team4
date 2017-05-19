@@ -266,10 +266,14 @@ input,
 select,
 textarea {
 	color: #404040;
-	font-family: sans-serif;
+	font-family: 'Comfortaa', cursive;
 	font-size: 16px;
 	font-size: 1rem;
 	line-height: 1.5;
+}
+
+input {
+	font-size: 12px;
 }
 
 h1,
@@ -505,22 +509,15 @@ textarea {
 /*--------------------------------------------------------------
 ## Links
 --------------------------------------------------------------*/
-a {
-	color: royalblue;
-}
-
-a:visited {
-	color: purple;
+a, a:visited {
+	color: black;
+	text-decoration: none;
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: midnightblue;
-}
-
-a:focus {
-	outline: thin dotted;
+	color: #ff86a3;
 }
 
 a:hover,
