@@ -16,6 +16,7 @@ get_header(); ?>
     <div class="container">
         <div class="section">
 
+
             <!-- Products section -->
             <?php
             $frontpage_shortcode = get_theme_mod( 'frontpage_products_shortcode' );

@@ -31,8 +31,8 @@
                 ) ); ?>
 
             <?php
-                $search_bar = get_template_directory() . '/woocommerce/product-searchform.php';
-                require_once ( $search_bar );
+            $search_bar = get_template_directory() . '/woocommerce/product-searchform.php';
+            require_once ( $search_bar );
             ?>
 
         </div>
