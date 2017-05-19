@@ -30,6 +30,11 @@
             'container_class' => 'navigation',
                 ) ); ?>
 
+            <?php
+                $search_bar = get_template_directory() . '/woocommerce/product-searchform.php';
+                require_once ( $search_bar );
+            ?>
+
         </div>
 	</header><!-- header end -->
 
