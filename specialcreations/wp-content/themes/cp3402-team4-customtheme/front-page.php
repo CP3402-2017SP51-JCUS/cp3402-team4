@@ -50,7 +50,7 @@ if ( isset( $slider_shortcode ) && ! empty( $slider_shortcode ) ) {
             ?>
 
             <?php
-            $products1_shortcode = get_theme_mod( 'products_category_section3' );
+            $products3_shortcode = get_theme_mod( 'products_category_section3' );
             if ( isset( $products3_shortcode ) && ! empty( $products3_shortcode ) ) {
                 echo '<h2>GIFTS FOR ' . strtoupper( $products3_shortcode ) . '</h2>';
                 echo do_shortcode( '[product_category category="' . $products3_shortcode . '" per_page="4"]' );
