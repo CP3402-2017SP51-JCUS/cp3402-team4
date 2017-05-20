@@ -241,7 +241,7 @@ function contactus_customize_register( $wp_customize ) {
     $wp_customize->add_control( new WP_Customize_Control(
         $wp_customize,
         'email_text', array(
-            'label'    => __( 'Phone Number', 'cp3402-team4-customtheme' ),
+            'label'    => __( 'Email', 'cp3402-team4-customtheme' ),
             'section'  => 'contactus_section',
             "settings" => "email_text",
         )
