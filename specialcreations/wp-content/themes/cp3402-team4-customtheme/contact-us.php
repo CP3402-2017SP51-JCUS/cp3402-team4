@@ -37,7 +37,7 @@ get_header(); ?>
                     $timing_day_text2 = get_theme_mod( "timing_day_text2" );
                     if ( (isset( $timing_day_text1 ) && ! empty( $timing_day_text1 )) ||
                          (isset( $timing_day_text2 ) && ! empty( $timing_day_text2 )) ) {
-                        echo 'Opening Hour : <br />';
+                        echo 'Opening Hours : <br />';
 
                         if ( isset( $timing_day_text1 ) && ! empty( $timing_day_text1 ) ) {
                             echo $timing_day_text1 . '<br />';
@@ -50,6 +50,7 @@ get_header(); ?>
                     ?>
             </div>
             <div class="map">
+                <?php echo do_shortcode( "[intergeo id='2MzM'][/intergeo]" ); ?>
             </div>
         </div>
 

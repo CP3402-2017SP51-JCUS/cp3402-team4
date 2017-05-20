@@ -289,6 +289,20 @@ function contactus_customize_register( $wp_customize ) {
         )
     ) );
 
+    /* Maps */
+    $wp_customize->add_setting( 'maps_shortcode', array(
+        'transport'         => 'postMessage',
+        'default'           => __( '', 'cp3402-team4-customtheme' )
+    ) );
+    $wp_customize->add_control( new WP_Customize_Control(
+        $wp_customize,
+        'maps_shortcode', array(
+            'label'    => __( 'Maps Shortcode', 'cp3402-team4-customtheme' ),
+            'section'  => 'contactus_section',
+            "settings" => "maps_shortcode",
+        )
+    ) );
+
     $wp_customize->get_section( 'contactus_section' )->panel = 'theme_settings';
 }
 add_action( 'customize_register', 'contactus_customize_register' );

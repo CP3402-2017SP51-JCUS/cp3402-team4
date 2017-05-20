@@ -11,9 +11,8 @@ get_header(); ?>
 $slider_shortcode = get_theme_mod( "slider_shortcode" );
 if ( isset( $slider_shortcode ) && ! empty( $slider_shortcode ) ) {
     echo '<div class="slider">';
-    echo '<div class="container">';
     echo do_shortcode( $slider_shortcode );
-    echo '</div></div>';
+    echo '</div>';
 }
 ?>
 <div class="front-page-content">
