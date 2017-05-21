@@ -50,7 +50,7 @@ get_header(); ?>
                     ?>
             </div>
             <div class="map">
-                <?php echo do_shortcode( "[intergeo id='2MzM'][/intergeo]" ); ?>
+                <?php echo do_shortcode( get_theme_mod( "maps_shortcode" ) ); ?>
             </div>
         </div>
 

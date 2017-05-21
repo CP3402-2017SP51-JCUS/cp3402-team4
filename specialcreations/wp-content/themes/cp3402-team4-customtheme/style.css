@@ -793,7 +793,7 @@ a:active {
 	margin-bottom: 100px;
 }
 
-.wc-backward {
+.wc-backward, .woocommerce a.button {
 	background-color: #e1f9ff !important;
 	border: solid 1px #E0E0E0 !important;
 }
@@ -928,3 +928,6 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+
+

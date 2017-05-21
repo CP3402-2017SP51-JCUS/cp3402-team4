@@ -166,6 +166,36 @@ function products_customize_register( $wp_customize ) {
 add_action( 'customize_register', 'products_customize_register' );
 
 /**
+ * Video section
+ */
+function video_customize_register( $wp_customize ) {
+
+    /* Video Section */
+    $wp_customize->add_section( 'video_section', array(
+        'default'     => false,
+        'title'       => __( 'Video Section', 'cp3402-team4-customtheme' ),
+    ) );
+
+    /* Main Title */
+    $wp_customize->add_setting( 'video_link', array(
+        'transport'         => 'postMessage',
+        'default'           => __( '', 'cp3402-team4-customtheme' )
+    ) );
+
+    $wp_customize->add_control( new WP_Customize_Control(
+        $wp_customize,
+        'video_link', array(
+            'label'    => __( 'Video Link', 'cp3402-team4-customtheme' ),
+            'section'  => 'video_section',
+            "settings" => "video_link",
+        )
+    ) );
+
+    $wp_customize->get_section( 'video_section' )->panel = 'theme_settings';
+}
+add_action( 'customize_register', 'video_customize_register' );
+
+/**
  * About us customizer
  */
 function aboutus_customize_register( $wp_customize ) {

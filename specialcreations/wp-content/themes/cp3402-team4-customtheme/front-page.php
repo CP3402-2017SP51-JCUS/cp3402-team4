@@ -78,8 +78,9 @@ if ( isset( $slider_shortcode ) && ! empty( $slider_shortcode ) ) {
         <!-- Video section -->
         <div class="section">
             <div class="video">
-                <div class="display-title">Video</div>
-                <iframe width="662" height="506" src="https://www.youtube.com/embed/qNUtoW3pW6k" frameborder="0" allowfullscreen></iframe>
+                <h2 class="display-title">TUTORIAL FOR THE DAY</h2>
+                <iframe width="662" height="506" src=<?php echo '"' . get_theme_mod( "video_link" ) . '"'?>
+                frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
