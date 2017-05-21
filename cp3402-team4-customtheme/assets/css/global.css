@@ -1,0 +1,281 @@
+body, html, .site, .site-content {
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+.navigation {
+    font-size: 11px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    color: black;
+    background-color: #e1f9ff;
+    position: fixed;
+    height: auto;
+    z-index: 4;
+    width: 100%;
+}
+
+.navigation .container {
+    padding: 0 0 0 10px;
+    min-width: 820px;
+}
+
+.navigation .container .nav-bar {
+    text-align: left;
+    width: 69%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.navigation .container .nav-bar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation .container .nav-bar ul li ul {
+    display: none;
+    position: absolute;
+    background-color: #e1f9ff;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+}
+
+.navigation .container .nav-bar ul li:hover ul {
+    display: block !important;
+}
+
+.navigation .container .nav-bar ul li {
+    display: inline-block;
+    padding: 15px 10px;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.navigation .container .search {
+    float: right;
+    width: 30%;
+    display: inline-block;
+    padding: 15px 0 15px 10px;
+    box-sizing: border-box;
+    min-width: 250px;
+}
+
+.title {
+    position: fixed;
+    width: 100%;
+    z-index: -1;
+    background-color: #e1f9ff;
+    font-family: "Arial";
+    height: 30%;
+    padding-top: 40px;
+    box-sizing: border-box;
+    min-width: 450px;
+}
+
+.title .container .maintitle {
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.title .container .maintitle a {
+    color: #ff5975;
+    text-decoration: none;
+}
+
+.title .container .subtitle {
+    color: #ff8ea6;
+    font-size: medium;
+    padding: 10px;
+}
+
+.slider {
+    top:30%;
+    position: fixed;
+    width: 100%;
+    z-index: -2;
+    height: 70%;
+    box-sizing: border-box;
+    background-color: #00aadc;
+}
+
+.slider .container {
+    background-image: url("assets\\images\\404.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    padding: 0;
+}
+
+.front-page-content {
+    top: 100%;
+    z-index: 3;
+    position: relative;
+    background-color: white;
+}
+
+#container #content {
+    background-color: white;
+}
+
+.section {
+    padding: 20px;
+    min-width: 800px;
+}
+
+.section div {
+    margin: 0 auto;
+}
+
+.display-title {
+    font-size: 30px;
+    padding: 30px;
+}
+
+.item {
+    display: inline-block;
+    width: 33%;
+}
+
+.picture {
+    width: 250px;
+    height: 250px;
+    background-color: aquamarine;
+}
+
+.product-name {
+    font-size: medium;
+}
+
+.video iframe {
+    width: 640px;
+    height: 360px;
+    padding-bottom: 20px;
+}
+
+.footer {
+    z-index: 3;
+    color: azure;
+    opacity: 0.8;
+    text-align: center;
+    bottom: 0;
+    background-color: black;
+    position: relative;
+    width: 100%;
+}
+
+.footer .container {
+    padding: 10px 30px;
+}
+
+.contact-us-content, .about-us-content, .content-area{
+    position: relative;
+    z-index: 3;
+    background-color: white;
+}
+.title-container {
+    position: relative;
+    z-index: 3;
+    background-color: transparent;
+    height: 30%;
+}
+
+.front-page-content .footer {
+    position: absolute;
+}
+
+.about-us-content .details {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1.5;
+    padding: 50px 80px;
+}
+
+.contact-us-content .container, .about-us-content .container {
+    padding: 0 50px 10px 0;
+    text-align: left;
+}
+
+.contact-us-content .details {
+    display: inline-block;
+    width: 49.5%;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1.5;
+    text-align: left;
+    padding: 50px 0;
+}
+
+.map {
+    display: inline-block;
+    width: 49.5%;
+    top: 0;
+    vertical-align: top;
+    background-color: #ff8ea6;
+}
+
+.woocommerce ul.products li.product a img {
+    max-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.imagewrapper {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 100%;
+    position: relative;
+}
+
+.woocommerce ul.products li.product {
+    float: left;
+    clear: none;
+    width: 25%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 0 4.236em 0;
+}
+
+.woocommerce ul.products li.product:nth-child(4n+1) {
+    clear: left;
+}
+
+.woocommerce-loop-product__title {
+    font-size: 15px !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.price {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0 !important;
+}
+
+@media screen and (max-width: 992px) {
+    .woocommerce ul.products li.product:nth-child(2n+1) {
+        clear: left;
+    }
+
+    .woocommerce ul.products li.product {
+        float: left;
+        width: 50%;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin: 0 0 4.236em 0;
+        box-sizing: border-box;
+        position: relative;
+    }
+}

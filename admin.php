@@ -1,1 +1,0 @@
-<?php header('Location: http://127.0.0.1/cp3402-team4/specialcreations/wp-admin/'); ?>
